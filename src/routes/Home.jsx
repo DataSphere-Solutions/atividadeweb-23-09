@@ -1,5 +1,5 @@
 import { HomeStyle } from "../css/HomeStyle";
-
+import '../css/Loja.css'
 const Home = () => {
   return (
     <>
