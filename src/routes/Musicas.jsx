@@ -1,8 +1,9 @@
-import "../css/Loja.css";
+
+import { MusicasStyle } from "../css/MusicasStyle";
 
 const Musicas = () => {
   return (
-    <>
+    <MusicasStyle>
       <header>
         <h1>Loja de Músicas Ritmo</h1>
       </header>
@@ -97,7 +98,7 @@ const Musicas = () => {
           </section>
         </article>
       </main>
-    </>
+    </MusicasStyle>
   );
 };
 

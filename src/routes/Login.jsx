@@ -1,5 +1,7 @@
 import { useRef, useState, useEffect } from "react";
 import { useNavigate, Link } from "react-router-dom";
+import { LoginStyle } from "../css/LoginStyle";
+
 
 const Login = () => {
   const usuario = useRef();
@@ -46,6 +48,7 @@ const Login = () => {
   }, []);
 
   return (
+    <LoginStyle>
       <section className="container">
         <div className="container-login">
           <div className="login">
@@ -92,6 +95,7 @@ const Login = () => {
           </div>
         </div>
       </section>
+    </LoginStyle>
   );
 };
 export default Login;

@@ -8,9 +8,7 @@ export const NavStyle = styled.section`
     list-style:none;
     text-decoration:none;
 }
-section{
-    background-color:#646464;
-}
+
 section nav{
     text-align: center;
     padding-top: 5px;
@@ -19,7 +17,7 @@ section nav{
 section nav a{
     font-size: 20px;
     text-decoration: none;
-    color: black;
+    color: #ffffff;
     margin-right: 10px;
     transition:all 0.7s;
 }

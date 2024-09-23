@@ -9,4 +9,12 @@ position: absolute;
 bottom: 0;
 margin-left: 42%;
 
+    h5{
+        text-align: center;
+        background-color: #999999;
+        padding-top: 20px;
+        padding-bottom: 21px;
+        width: 100%;
+    }
+
 `
