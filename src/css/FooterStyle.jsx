@@ -5,6 +5,8 @@ margin: 0;
 padding: 0;
 display: flex;
 justify-content: center;
-
+position: absolute;
+bottom: -100;
+margin-left: 42%;
 
 `
