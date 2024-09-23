@@ -4,7 +4,9 @@ const Home = () => {
     <>
       <HomeStyle>
         <section>
-          <h1>Home</h1>
+          <h1>Loja de Músicas Ritmo</h1>
+          <h2>Os melhores produtos do Brasil!!! </h2>
+          <h2>👍</h2>
         </section>
       </HomeStyle>
     </>
