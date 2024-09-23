@@ -1,10 +1,5 @@
 import { useRef, useState, useEffect } from "react";
 import { useNavigate, Link } from "react-router-dom";
-<<<<<<< HEAD
-import { LoginStyle } from "../css/LoginStyle";
-import LogoLogin from "../src/routes/Login.jpg";
-=======
->>>>>>> 1c8d94a0faf7b4984130d776b8943d36a45041e1
 
 const Login = () => {
   const usuario = useRef();
