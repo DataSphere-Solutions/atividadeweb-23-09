@@ -5,6 +5,9 @@ margin: 0;
 padding: 0;
 display: flex;
 justify-content: center;
+position: absolute;
+bottom: 0;
+margin-left: 42%;
 
     h5{
         text-align: center;
