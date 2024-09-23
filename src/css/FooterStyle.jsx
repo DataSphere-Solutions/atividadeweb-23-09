@@ -13,7 +13,7 @@ margin-left: 42%;
         text-align: center;
         background-color: #999999;
         padding-top: 20px;
-        padding-bottom: 20px;
+        padding-bottom: 21px;
         width: 100%;
     }
 
