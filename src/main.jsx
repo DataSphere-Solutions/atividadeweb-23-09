@@ -14,12 +14,11 @@ const router = createBrowserRouter([
     element: <App />,
     errorElement: <Error />,
 
-    //Elemento Filho
 
     children: [
       { path: "/", element: <Home /> },
-      { path: "/login", element: <Login /> },
-      { path: "/Musicas", element: <Musicas /> },
+      { path: "/musicas", element: <Musicas /> },
+      { path: "/login", element: <Login/> },
     ],
   },
 ]);
