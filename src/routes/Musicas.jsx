@@ -9,7 +9,7 @@ const Musicas = () => {
       <main>
         <article className="produto-grid">
           <section className="produto-item span-row-2">
-            <img src={} alt="Produto-1" id="image" />
+            <img src={''} alt="Produto-1" id="image" />
             <div>
               <h3>Produto-1</h3>
               <p>R$ 100,00</p>
