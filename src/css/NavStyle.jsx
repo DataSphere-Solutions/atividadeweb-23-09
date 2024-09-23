@@ -10,6 +10,7 @@ export const NavStyle = styled.section`
 }
 
 section nav{
+    background-color: #4D4D4DFF;
     text-align: center;
     padding-top: 5px;
     padding-bottom: 5px;
