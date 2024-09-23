@@ -1,7 +1,7 @@
 import { useRef, useState, useEffect } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import { LoginStyle } from "../css/LoginStyle";
-import LogoLogin from "../assets/Login.jpg";
+import LogoLogin from "../src/routes/Login.jpg";
 
 const Login = () => {
   //Hook-useRef- pega a referencia de um componente ou elemento do DOM
