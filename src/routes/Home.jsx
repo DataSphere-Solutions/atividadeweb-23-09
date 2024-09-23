@@ -1,7 +1,13 @@
+import { HomeStyle } from "../css/HomeStyle";
+
 const Home = () => {
   return (
     <>
-      <h1>Home</h1>
+      <HomeStyle>
+        <section>
+          <h1>Home</h1>
+        </section>
+      </HomeStyle>
     </>
   );
 };
