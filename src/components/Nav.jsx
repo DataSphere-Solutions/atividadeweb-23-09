@@ -8,6 +8,7 @@ const Nav = () => {
                     <a href="/">Home</a>
                     <a href="/Produtos">Produtos</a>
                     <a href="/Sobre">Sobre</a>
+                    <a href="/Login">Login</a>
                 </nav>
             </section> 
         </NavStyle>
