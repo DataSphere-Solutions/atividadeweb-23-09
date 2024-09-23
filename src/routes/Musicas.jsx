@@ -5,7 +5,7 @@ const Musicas = () => {
   return (
     <MusicasStyle>
       <header>
-        <h1>Loja City</h1>
+        <h1>Loja de Músicas Ritmo</h1>
       </header>
       <main>
         <article className="produto-grid">
